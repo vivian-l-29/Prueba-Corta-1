@@ -1,0 +1,20 @@
+
+/* CSS del index */
+
+#v1 {
+    width: 40rem;
+    height:70rem;
+    border: 1px solid black;
+
+    margin: auto;
+    margin-top: 10rem;
+}
+
+.pantalla2{
+    width: 40rem;
+    height:70rem;
+    border: 1px solid black;
+
+    margin: auto;
+    margin-top: 75rem;   
+}
