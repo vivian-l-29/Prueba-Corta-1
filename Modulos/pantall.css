@@ -1,19 +1,22 @@
 .pantalla{
-    height: 18rem;
+
+}
+
+.cuadro2{
+    height: 12rem;
     background-color: rgb(161, 185, 182);
     padding: 1rem;
     
     font-size: 5rem;
     text-align: right;
-    color: beige;
 
     display: flex;
     align-items: end;
     justify-content: right;
 }
 
-.pantalla2{
-    height: 18rem;
+.cuadro3{
+    height: 12rem;
     background-color: rgb(161, 185, 182);
     padding: 1rem;
     
@@ -23,4 +26,35 @@
     display: flex;
     align-items: end;
     justify-content: right;
+    margin-top: 45.8rem;     
+
+}
+
+.cuadro5{
+    height: 12rem;
+    background-color: rgb(161, 185, 182);
+    padding: 1rem;
+    
+    font-size: 5rem;
+    text-align: right;
+
+    display: flex;
+    align-items: end;
+    justify-content: right;
+    margin-top: 45.8rem; 
+    
+}
+
+.cuadro4{
+    height: 12rem;
+    background-color: rgb(161, 185, 182);
+    padding: 1rem;
+    
+    font-size: 5rem;
+    text-align: left;
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    
 }
